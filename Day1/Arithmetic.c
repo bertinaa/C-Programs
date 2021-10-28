@@ -26,7 +26,8 @@ int main()
     printf("%d / %d = %d\n", n1, n2, quo);
     printf("%d %% %d = %d\n", n1, n2, remainder);
 
-    printf("\\");
+    printf("\\"); 
+    //this will print \
 
 
     return 0;
