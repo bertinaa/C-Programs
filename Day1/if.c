@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+    //basically anything other than 0 is taken as 1(true)
     /* if (expression that gives TRUE) */
 
     if(1)
